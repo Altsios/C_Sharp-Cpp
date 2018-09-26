@@ -127,6 +127,6 @@ o	атомарные операторы (Interlocked)
 
 ## Знакомство с Windows Presentation Foundation
  1. Calc-простой калькулятор  
- 
+ ![Screenshot](img/calc.PNG)
  2.Первое классическое приложение WPF
  
