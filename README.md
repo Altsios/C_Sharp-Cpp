@@ -129,4 +129,5 @@ o	атомарные операторы (Interlocked)
  1. Calc-простой калькулятор  
  ![Screenshot](img/calc.PNG)  
  2.Первое классическое приложение WPF
- 
+  ![Screenshot](img/fa1.PNG)  
+  ![Screenshot](img/fa2.PNG)  
